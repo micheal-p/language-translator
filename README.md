@@ -1,2 +1,2 @@
-# language-translator
- this transcribe handwritten code into text from any language of your choice
+# Language-Translator
+A language translator created using an API with Python
